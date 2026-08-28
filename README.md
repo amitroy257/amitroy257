@@ -70,8 +70,17 @@
 ### GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=amitroy257&show_icons=true&hide_border=true&count_private=true" alt="Amit's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitroy257&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
+  <img src="https://img.shields.io/github/followers/amitroy257?style=flat&label=Followers&color=555" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/amitroy257?style=flat&label=Total%20Stars&color=555" alt="Stars" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amitroy257&theme=default" alt="Profile summary" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amitroy257&theme=default" alt="Top languages by repo" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amitroy257&theme=default" alt="Most used languages by commits" />
 </p>
 
 ---
